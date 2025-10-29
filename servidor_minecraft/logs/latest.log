@@ -1,0 +1,29 @@
+[00:00:11] [Server thread/INFO]: [Vodruk9029: Set own game mode to Creative Mode]
+[00:00:22] [Server thread/INFO]: [Vodruk9029: Set own game mode to Survival Mode]
+[00:05:02] [Server thread/INFO]: [Vodruk9029: Set own game mode to Creative Mode]
+[00:05:10] [Server thread/INFO]: [Vodruk9029: Set own game mode to Survival Mode]
+[00:09:27] [Server thread/INFO]: Vodruk9029 has made the advancement [Local Brewery]
+[00:17:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=47, y=77, z=-2} ja{x=48, y=83, z=48}
+[00:17:31] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=48, y=87, z=54} ja{x=48, y=86, z=59}
+[00:18:09] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=48, y=87, z=54} ja{x=47, y=86, z=67}
+[00:19:32] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=47, y=82, z=46} ja{x=48, y=84, z=48}
+[00:20:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=48, y=84, z=48} ja{x=47, y=83, z=46}
+[00:23:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=38, y=84, z=129} ja{x=38, y=82, z=129}
+[00:23:06] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=38, y=84, z=129} ja{x=38, y=88, z=129}
+[00:23:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=38, y=84, z=129} ja{x=38, y=86, z=131}
+[00:23:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=48, y=86, z=122} ja{x=48, y=86, z=111}
+[00:24:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=48, y=87, z=111} ja{x=47, y=86, z=100}
+[00:25:30] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=47, y=83, z=147} ja{x=45, y=84, z=148}
+[00:26:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=55, y=86, z=166} ja{x=49, y=86, z=168}
+[00:26:20] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=55, y=86, z=166} ja{x=49, y=86, z=168}
+[00:26:20] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=55, y=86, z=166} ja{x=49, y=86, z=168}
+[00:26:20] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=55, y=86, z=166} ja{x=49, y=86, z=168}
+[00:27:00] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=48, y=86, z=164} ja{x=48, y=87, z=169}
+[00:27:30] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=46, y=85, z=176} ja{x=51, y=81, z=187}
+[00:32:12] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[00:32:12] [Server thread/INFO]: as<--[HERE]
+[00:32:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=88, y=85, z=273} ja{x=107, y=75, z=272}
+[00:51:52] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[00:51:52] [Server thread/INFO]: sdafsdfefd<--[HERE]
+[01:08:49] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[01:08:49] [Server thread/INFO]: gggg<--[HERE]
